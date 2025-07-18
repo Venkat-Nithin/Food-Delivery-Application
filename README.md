@@ -4,7 +4,7 @@ This is a React Native application built using TypeScript and Tailwind CSS (via 
 
 ## 📱 Preview
 
-![App Preview](https://github.com/user-attachments/assets/f49b82af-a073-40e5-9eea-59f5df13bd88)
+<img src="https://github.com/user-attachments/assets/f49b82af-a073-40e5-9eea-59f5df13bd88" alt="App Preview" width="300"/>
 
 ## Current Progress
 
