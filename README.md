@@ -2,6 +2,10 @@
 
 This is a React Native application built using TypeScript and Tailwind CSS (via NativeWind). The project is currently in development and aims to become a **fully functional food delivery app**.
 
+## 📱 Preview
+
+![App Preview](https://github.com/user-attachments/assets/f49b82af-a073-40e5-9eea-59f5df13bd88)
+
 ## Current Progress
 
 - UI for displaying dynamic offer cards using `FlatList`
